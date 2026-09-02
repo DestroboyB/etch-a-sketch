@@ -1,0 +1,8 @@
+.button-container{
+    display:flex;
+    justify-content: center;
+    padding: 1vh;
+}
+button{
+    height: 3vh;
+}
